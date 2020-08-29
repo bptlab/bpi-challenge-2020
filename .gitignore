@@ -1,0 +1,21 @@
+*.log
+*.aux
+*.pdf
+*.out
+*.docx
+*.odt
+*.xes
+
+notebooks/.ipynb_checkpoints/*
+notebooks/.ipynb_checkpoints/
+notebooks/figures/
+
+src/__pycache__/*
+
+*.ipynb_checkpoints
+
+test.py
+
+# VS Code
+.vscode
+.devcontainer
